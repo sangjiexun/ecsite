@@ -13,7 +13,8 @@
 	<h1>Simple Shopping Site!</h1>
 	<br>
 	<p>
-		プログラミング学習過程で製作したものです。 言語はJava,HTML,CSSを使用しました。<br>
+		プログラミング学習過程で製作したものです。 <br>
+		言語「Java,JSP,CSS」,開発環境「Eclipse」,データベース「Postgres」を使用しました。<br>
 		まずは「ログイン」もしくは「新規登録」をして進んでください。
 	</p>
 </div>
